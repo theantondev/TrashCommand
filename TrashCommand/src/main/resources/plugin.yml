@@ -1,0 +1,8 @@
+name: TrashCommand
+version: '${project.version}'
+main: dev.astrogames.trashcommand.Main
+api-version: 1.19
+authors: [ Anton ]
+description: Coded for Astrogames.net
+commands:
+  trash:
